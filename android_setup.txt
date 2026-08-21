@@ -1,0 +1,3 @@
+After running `flutter create .`, add Android internet permission:
+<uses-permission android:name="android.permission.INTERNET"/>
+Also add camera/media permissions as needed by image_picker.
